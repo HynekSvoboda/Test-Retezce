@@ -1,0 +1,9 @@
+G:\prg\TestRetezce\TestRetezce\bin\Debug\TestRetezce.exe.config
+G:\prg\TestRetezce\TestRetezce\bin\Debug\TestRetezce.exe
+G:\prg\TestRetezce\TestRetezce\bin\Debug\TestRetezce.pdb
+G:\prg\TestRetezce\TestRetezce\obj\Debug\TestRetezce.Form1.resources
+G:\prg\TestRetezce\TestRetezce\obj\Debug\TestRetezce.Properties.Resources.resources
+G:\prg\TestRetezce\TestRetezce\obj\Debug\TestRetezce.csproj.GenerateResource.cache
+G:\prg\TestRetezce\TestRetezce\obj\Debug\TestRetezce.csproj.CoreCompileInputs.cache
+G:\prg\TestRetezce\TestRetezce\obj\Debug\TestRetezce.exe
+G:\prg\TestRetezce\TestRetezce\obj\Debug\TestRetezce.pdb
